@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/app_ilhamver" />
+            <option value="$PROJECT_DIR$/app/app_login" />
+            <option value="$PROJECT_DIR$/app/app_yemektarifi" />
+            <option value="$PROJECT_DIR$/app/bottom_nav_bar" />
+            <option value="$PROJECT_DIR$/app/box" />
+            <option value="$PROJECT_DIR$/app/button" />
+            <option value="$PROJECT_DIR$/app/card" />
+            <option value="$PROJECT_DIR$/app/checkbox" />
+            <option value="$PROJECT_DIR$/app/disposable_effect" />
+            <option value="$PROJECT_DIR$/app/dropdown_menu" />
+            <option value="$PROJECT_DIR$/app/fabbutton" />
+            <option value="$PROJECT_DIR$/app/icon-iconbutton" />
+            <option value="$PROJECT_DIR$/app/launched_effect" />
+            <option value="$PROJECT_DIR$/app/lazycolumn" />
+            <option value="$PROJECT_DIR$/app/lazygrid" />
+            <option value="$PROJECT_DIR$/app/lazyrow" />
+            <option value="$PROJECT_DIR$/app/ozellestirilmiscomposable" />
+            <option value="$PROJECT_DIR$/app/progress_bar" />
+            <option value="$PROJECT_DIR$/app/radiobutton" />
+            <option value="$PROJECT_DIR$/app/sayfalar_arasi_veri_transferi" />
+            <option value="$PROJECT_DIR$/app/selectabletext" />
+            <option value="$PROJECT_DIR$/app/side_effect" />
+            <option value="$PROJECT_DIR$/app/state" />
+            <option value="$PROJECT_DIR$/app/switch" />
+            <option value="$PROJECT_DIR$/app/textfield" />
+            <option value="$PROJECT_DIR$/app/top_app_bar&amp;navigation_drawer" />
+            <option value="$PROJECT_DIR$/app/yenisayfaolusturma" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.app_ilhamver">
+        <State />
+      </entry>
+      <entry key="app.app_login">
+        <State />
+      </entry>
+      <entry key="app.app_yemektarifi">
+        <State />
+      </entry>
+      <entry key="app.bottom_nav_bar">
+        <State />
+      </entry>
+      <entry key="app.box">
+        <State />
+      </entry>
+      <entry key="app.button">
+        <State />
+      </entry>
+      <entry key="app.card">
+        <State />
+      </entry>
+      <entry key="app.checkbox">
+        <State />
+      </entry>
+      <entry key="app.disposable_effect">
+        <State />
+      </entry>
+      <entry key="app.dropdown_menu">
+        <State />
+      </entry>
+      <entry key="app.fabbutton">
+        <State />
+      </entry>
+      <entry key="app.icon-iconbutton">
+        <State />
+      </entry>
+      <entry key="app.launched_effect">
+        <State />
+      </entry>
+      <entry key="app.lazycolumn">
+        <State />
+      </entry>
+      <entry key="app.lazygrid">
+        <State />
+      </entry>
+      <entry key="app.lazyrow">
+        <State />
+      </entry>
+      <entry key="app.ozellestirilmiscomposable">
+        <State />
+      </entry>
+      <entry key="app.progress_bar">
+        <State />
+      </entry>
+      <entry key="app.radiobutton">
+        <State />
+      </entry>
+      <entry key="app.sayfalar_arasi_veri_transferi">
+        <State />
+      </entry>
+      <entry key="app.selectabletext">
+        <State />
+      </entry>
+      <entry key="app.side_effect">
+        <State />
+      </entry>
+      <entry key="app.state">
+        <State />
+      </entry>
+      <entry key="app.switch">
+        <State />
+      </entry>
+      <entry key="app.textfield">
+        <State />
+      </entry>
+      <entry key="app.top_app_bar&amp;navigation_drawer">
+        <State />
+      </entry>
+      <entry key="app.yenisayfaolusturma">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
